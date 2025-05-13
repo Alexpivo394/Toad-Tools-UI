@@ -1,5 +1,5 @@
 {
   "$schema": "./build.schema.json",
-  "Solution": "LookupEngine.UI.sln",
+  "Solution": "Toad-Tools-UI.sln",
   "Verbosity": "Normal"
 }
