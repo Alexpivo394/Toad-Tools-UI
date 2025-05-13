@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toad-Tools-UI.Abstractions", "source\LookupEngine.UI.Abstractions\Toad-Tools-UI.Abstractions.csproj", "{B68202FA-ACD4-4880-9C93-67AD8F141E9A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toad-Tools-UI.Abstractions", "source\Toad-Tools-UI.Abstractions\Toad-Tools-UI.Abstractions.csproj", "{B68202FA-ACD4-4880-9C93-67AD8F141E9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toad-Tools-UI", "source\LookupEngine.UI\Toad-Tools-UI.csproj", "{4BEA53BE-F95B-0FE9-39A5-A59043C622A8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toad-Tools-UI", "source\Toad-Tools-UI\Toad-Tools-UI.csproj", "{4BEA53BE-F95B-0FE9-39A5-A59043C622A8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Automation", "Automation", "{BE4A8008-4A00-8C08-26C2-BD576741EBBE}"
 EndProject
