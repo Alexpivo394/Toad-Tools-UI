@@ -72,7 +72,7 @@ public class GridViewHeaderRowPresenter : System.Windows.Controls.GridViewHeader
             ResourceDictionary resourceDictionary = new()
             {
                 Source = new Uri(
-                    "pack://application:,,,/LookupEngine.UI;component/Controls/GridView/GridViewHeaderRowIndicator.xaml",
+                    "pack://application:,,,/Toad-Tools-UI;component/Controls/GridView/GridViewHeaderRowIndicator.xaml",
                     UriKind.Absolute
                 ),
             };

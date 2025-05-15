@@ -44,7 +44,7 @@ public partial class ContextMenuLoader : ResourceDictionary
 
         ResourceDictionary resourceDict = new()
         {
-            Source = new Uri("pack://application:,,,/LookupEngine.UI;component/Controls/ContextMenu/ContextMenu.xaml"),
+            Source = new Uri("pack://application:,,,/Toad-Tools-UI;component/Controls/ContextMenu/ContextMenu.xaml"),
         };
 
         Style contextMenuStyle = (Style)resourceDict["UiContextMenu"];

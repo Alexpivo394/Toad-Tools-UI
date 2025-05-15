@@ -28,7 +28,7 @@ public class GridView : System.Windows.Controls.GridView
         ResourceDictionary resourceDict = new()
         {
             Source = new Uri(
-                "pack://application:,,,/LookupEngine.UI;component/Controls/GridView/GridViewColumnHeader.xaml"
+                "pack://application:,,,/Toad-Tools-UI;component/Controls/GridView/GridViewColumnHeader.xaml"
             ),
         };
 

@@ -13,7 +13,7 @@ namespace Wpf.Ui.Markup;
 /// <example>
 /// <code lang="xml">
 /// &lt;Application
-///     xmlns:ui="http://schemas.lepo.co/wpfui/2022/xaml"&gt;
+///     xmlns:ui="http://Toad-Tools.com/xaml"&gt;
 ///     &lt;Application.Resources&gt;
 ///         &lt;ResourceDictionary&gt;
 ///             &lt;ResourceDictionary.MergedDictionaries&gt;
@@ -29,7 +29,7 @@ namespace Wpf.Ui.Markup;
 [UsableDuringInitialization(true)]
 public class ControlsDictionary : ResourceDictionary
 {
-    private const string DictionaryUri = "pack://application:,,,/LookupEngine.UI;component/Resources/Wpf.Ui.xaml";
+    private const string DictionaryUri = "pack://application:,,,/Toad-Tools-UI;component/Resources/Wpf.Ui.xaml";
 
     /// <summary>
     /// Initializes a new instance of the <see cref="ControlsDictionary"/> class.
