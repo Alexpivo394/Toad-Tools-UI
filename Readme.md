@@ -1,6 +1,6 @@
 # Toad-Tools-UI
 
-A copy of modified fork [Toad-Tools-UI](https://github.com/lookup-foundation/Toad-Tools-UI) of [WPF UI](https://github.com/lepoco/wpfui) library, specifically adapted for use in Toad-Tools based projects. This fork maintains the core functionality of the original WPF UI library while introducing specific modifications and optimizations.
+A copy of modified fork [LookupEngine.UI](https://github.com/lookup-foundation/LookupEngine.UI) of [WPF UI](https://github.com/lepoco/wpfui) library, specifically adapted for use in Toad-Tools based projects. This fork maintains the core functionality of the original WPF UI library while introducing specific modifications and optimizations.
 
 ## Differences from Original WPF UI
 
